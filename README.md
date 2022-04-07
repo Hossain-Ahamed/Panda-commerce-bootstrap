@@ -4,6 +4,6 @@
  
 
 
-## Abut :
+## About :
 > Basic Bootstrap try and use <br>
 > Done from - [**Resource**](https://programminghero1.github.io/panda-commerce/)
